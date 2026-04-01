@@ -1,0 +1,38 @@
+.banner_location_grid {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 825px;
+}
+.banner_location_grid select {
+    background: transparent;
+    border: none;
+    color: black;
+}
+.banner_location_grid button {
+    background: green;
+    color: #fff;
+    width: 82px;
+    height: 82px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.feature_card img {
+    width: 82px;
+}
+
+/* nav */
+
+.navbar{
+    padding: 20px;
+}
+.nav-pic{
+    width: 64px;
+    height: 68px;
+}
+/* nav */
