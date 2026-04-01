@@ -35,4 +35,8 @@
     width: 64px;
     height: 68px;
 }
+.navbar-nav{
+    /* justify-content: space-between; */
+    gap: 400px;
+}
 /* nav */
