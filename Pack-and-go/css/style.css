@@ -64,10 +64,11 @@
 }
 
 .head p {
-    color: #fff;
+    color: #ffffffda;
     width: 597px !important;
     text-align: justify;
     margin: -30px 0px 0px 150px !important;
+    opacity: 10px;
 }
 .heading-text{
     margin-left: 150px !important;
@@ -78,20 +79,65 @@
     border-radius: 10px;
     border: none;
     color: white;
-    padding: 5px 10px;
+    padding: 10px 15px;
     position: absolute;
     left: 170px;
-    margin-top: 10px;
+    margin-top: 30px;
     
 }
 
 .banner_location_grid{
-    
+    margin-top: 90px;
 }
 /* banner part */
 
-/* card */
+/* section_header */
+
+.section_header{
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.section_header p{
+    margin-top: 30px;
+    width: 692px;
+    display: flex;
+    margin: auto;
+}
+/* 
+.card-title{
+    margin-top: 40px;
+}
+.card-text{
+    width: 299px;
+}
 .card{
+    border: none;
+    margin-top: 10px;
     
 }
-/* card */
+.card:hover{
+   box-shadow: 0 8px 16px rgba(147, 147, 147, 0.3); 
+   transition: box-shadow 0.3s ease-in-out; 
+   border-radius: 10px;
+} */
+
+/* .card-body{
+    padding: 20px;
+} */
+.card-body img {
+    width: 40px;
+}
+.to{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+/* section_header */
+
+/* 
+.card_item{
+    justify-content: space-between;
+} */
