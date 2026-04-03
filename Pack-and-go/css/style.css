@@ -221,7 +221,41 @@
 .travel_card:hover  img{
     background: #f6fffd;
     border-radius: 10px;
-    transition: ease-in-out 1s ;
+    /* transition: ease-in-out 1s ; */
 
 }
 /* travel-descover */
+
+
+/* selected_Destination */
+.selected_Destination{
+    margin-top: 150px;
+}
+
+.travel_head2{
+    width: 507px;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+
+.travel_para2 {
+    width: 516px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.travel_head_des{
+    width: 489px;
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.travel_para3{
+    width: 431px;
+}
+
+.travel_commonText1{
+    font-size: 16px;
+    margin-top: 20px;
+}
+/* selected_Destination */
