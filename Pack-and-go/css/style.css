@@ -212,4 +212,16 @@
 .row_custom{
     justify-content: space-between;
 }
+
+.travel_card:hover {
+    background: #007F5F;
+    color: white;
+    transition: ease-in-out 1s ;
+}
+.travel_card:hover  img{
+    background: #f6fffd;
+    border-radius: 10px;
+    transition: ease-in-out 1s ;
+
+}
 /* travel-descover */
