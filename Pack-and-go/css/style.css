@@ -185,3 +185,36 @@
 }
 
 /* destination_section */
+
+/* travel-descover */
+.travel_descover{
+    background: #F4F4F4;
+    margin-top: 152px;
+    padding: 148px 0px 148px 0px ;
+}
+.travel_head{
+    font-size: 40px;
+    font-weight: 500;
+    width: 418px;
+}
+
+.travel_para{
+    font-size: 17px;
+    font-weight: 400;
+    width: 516px;
+}
+
+.travel_commonText{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 338px;
+}
+.fa-solid{
+    color: #007F5F;
+}
+
+.row_custom{
+    justify-content: space-between;
+}
+/* travel-descover */
