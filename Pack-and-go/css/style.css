@@ -27,6 +27,9 @@
     width: 82px;
 }
 
+.carouselExampleDark{
+    width: 10vb;
+}
 /* nav */
 
 .navbar{
@@ -117,27 +120,68 @@
     margin-top: 10px;
     
 }
+
+.custom-row {
+  display: flex;
+  flex-wrap: nowrap; /* ek line e rakhbe */
+  gap: 10px; /* optional gap */
+}
+
+
 .small_card:hover{
    box-shadow: 0 8px 16px rgba(147, 147, 147, 0.3); 
    transition: box-shadow 0.3s ease-in-out; 
    border-radius: 10px;
 }
-
-/* .card-body{
-    padding: 20px;
-} */
+.card_des:hover{
+   box-shadow: 0 8px 16px rgba(147, 147, 147, 0.3); 
+   transition: box-shadow 0.3s ease-in-out; 
+   border-radius: 10px;
+}
 .card-body img {
     width: 40px;
 }
+
+.icon{
+    margin-top: 10px;
+    color:#FF8B00;
+    
+}
+.card_des:hover .btn{
+    background: #007F5F;
+    color: white;
+    transition: ease-in-out 0.99s ;
+}
+
+.card-body{
+    margin-top: -30px !important;
+}
+.icon_item{
+    display: flex;
+    gap: 10px;
+}
+.icon_review{
+    margin-top: 8px;
+    gap: 5px;
+    color: #FF8B00;
+}
+
 .to{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 80px;
 }
+.l{
+    justify-content: space-between;
+}
 /* section_header */
 
-/* 
-.card_item{
-    justify-content: space-between;
-} */
+
+/* destination_section */
+
+.destination_section{
+    margin-top: 50px;
+}
+
+/* destination_section */
