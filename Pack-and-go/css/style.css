@@ -110,15 +110,10 @@
 }
 
 .card-title{
-    margin-top: 40px;
-}
-.card-text{
-    width: 299px;
+    margin-top: 10px;
 }
 .card{
-    border: none;
-    margin-top: 10px;
-    
+    border: none;    
 }
 
 .custom-row {
@@ -138,9 +133,9 @@
    transition: box-shadow 0.3s ease-in-out; 
    border-radius: 10px;
 }
-.card-body img {
+/* .card-body img {
     width: 40px;
-}
+} */
 
 .icon{
     margin-top: 10px;
