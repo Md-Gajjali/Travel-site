@@ -272,7 +272,9 @@
     border-radius: 10px;
     background: #E5F2EF;
 }
-
+.dropdown{
+    margin-top: 20px;
+}
 .dropdown_box p{
     margin-top: 10px;
     width: 358px;
